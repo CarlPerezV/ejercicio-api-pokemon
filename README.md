@@ -8,3 +8,6 @@ En este proyecto se ocuparon las librerías:
 - sass
 
 enlace video : https://www.youtube.com/watch?v=jg5ydNHNVJ4
+
+Aplicación en funcionamiento
+https://carlperezv.github.io/ejercicio-api-pokemon/
